@@ -74,10 +74,10 @@
 This report presents the results of the development and simulation of the Pionner robot's trajectory planning and control project, using the Python programming language and software V-REP as the robot's simulation environment. The trajectory generation method considered the robot non-holonomic and proportional control was implemented in this experiment.
 
 Keywords: Trajectory planning, Pioneer robot, non-holonomic, proportional control.
-
+[Full article](https://github.com/Jesse-Alves/Trajectory-Planning-for-Pioneer-Robot/blob/main/Paper/Article%20-%20Trajectory_Planning_for_Pioneer_Robot.pdf)
 
 <p float="left">
-  <img src="images/img1.png" width="500" height="500" />
+  <img src="images/img1.png" width="500" height="450" />
 <!--   <img src="images/img2.jpg" width="500" height="300" /> -->
 </p>
 
@@ -99,7 +99,6 @@ Keywords: Trajectory planning, Pioneer robot, non-holonomic, proportional contro
 
 
 ### Built With
-* [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 * [![V-REP](https://img.shields.io/badge/V--REP-CE2029?style=for-the-badge&logo=v-rep&logoColor=white)](http://www.coppeliarobotics.com/)
 
@@ -120,7 +119,7 @@ Keywords: Trajectory planning, Pioneer robot, non-holonomic, proportional contro
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is a mobile robotic design project, where the mathematical model of the Pionner robot was programed and tested in Matlab software and the trajectory planning and simulations was performed in python code and V-REP Coppeliam-SIM software.
+This is a mobile robotic design project, where the mathematical model of the Pionner robot was previously tested in Matlab software and the trajectory planning and simulations was performed in python code and V-REP Coppeliam-SIM software.
 
 ### Prerequisites
 
@@ -158,9 +157,9 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Once all the files are inside of the same folder, run the code [ModeloLinear.m](https://github.com/Jesse-Alves/Analysis-and-Control-Design-for-Coupled-Tanks/blob/main/ModeloLinear.m) as the mais code. The other files are auxiliar functions. The Coupled Tanks Model can be found in the [simulink file](https://github.com/Jesse-Alves/Analysis-and-Control-Design-for-Coupled-Tanks/blob/main/TanquesAcoplados.slx).
+The codes of the project are available [here](https://github.com/Jesse-Alves/Trajectory-Planning-for-Pioneer-Robot/tree/main/codes)
 
-More details about the project can be found in the [report](https://github.com/Jesse-Alves/Analysis-and-Control-Design-for-Coupled-Tanks/blob/main/Paper/Article%20-%20Analysis_and_Control_Design_for_Coupled_Tanks.pdf) attached.
+More details about the project can be found in the [article](https://github.com/Jesse-Alves/Trajectory-Planning-for-Pioneer-Robot/blob/main/Paper/Article%20-%20Trajectory_Planning_for_Pioneer_Robot.pdf) attached.
 
 
 
