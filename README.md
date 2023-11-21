@@ -28,7 +28,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="123">
   </a>
 
-  <h1 align="center">Analysis and Control Design for Coupled Tanks</h1>
+  <h1 align="center">Trajectory Planning for Pioneer Robot</h1>
 
   <p align="center">
     <a href="https://github.com/Jesse-Alves?tab=repositories"><strong>View all repositories  »</strong></a>
@@ -71,12 +71,14 @@
 ## About The Project
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-The coupled tank system is an excellent type of plant to apply and analyze control techniques, including for didactic purposes. Therefore, the present work will present two control techniques for the system: one using differential equations that describe the model and the other using a plant identification method through experimentally obtained data.
+This report presents the results of the development and simulation of the Pionner robot's trajectory planning and control project, using the Python programming language and \emph{software} V-REP as the robot's simulation environment. The trajectory generation method considered the robot non-holonomic and proportional control was implemented in this experiment.
+
+Keywords: Trajectory planning, Pioneer robot, non-holonomic, proportional control.
 
 
 <p float="left">
-  <img src="images/img1.JPG" width="150" height="300" />
-  <img src="images/img2.jpg" width="500" height="300" />
+  <img src="images/img1.png" width="300" height="150" />
+<!--   <img src="images/img2.jpg" width="500" height="300" /> -->
 </p>
 
 
@@ -98,7 +100,8 @@ The coupled tank system is an excellent type of plant to apply and analyze contr
 
 ### Built With
 * [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
-* [![Simulink](https://img.shields.io/badge/Simulink-4E148C?style=for-the-badge&logo=MathWorks&logoColor=white)](https://www.mathworks.com/products/simulink.html)
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* [![V-REP](https://img.shields.io/badge/V--REP-CE2029?style=for-the-badge&logo=v-rep&logoColor=white)](http://www.coppeliarobotics.com/)
 
 <!-- 
 * [![Next][Next.js]][Next-url]
