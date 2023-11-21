@@ -77,7 +77,7 @@ Keywords: Trajectory planning, Pioneer robot, non-holonomic, proportional contro
 
 
 <p float="left">
-  <img src="images/img1.png" width="600" height="300" />
+  <img src="images/img1.png" width="500" height="500" />
 <!--   <img src="images/img2.jpg" width="500" height="300" /> -->
 </p>
 
