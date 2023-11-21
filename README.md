@@ -71,7 +71,7 @@
 ## About The Project
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-This report presents the results of the development and simulation of the Pionner robot's trajectory planning and control project, using the Python programming language and \emph{software} V-REP as the robot's simulation environment. The trajectory generation method considered the robot non-holonomic and proportional control was implemented in this experiment.
+This report presents the results of the development and simulation of the Pionner robot's trajectory planning and control project, using the Python programming language and software V-REP as the robot's simulation environment. The trajectory generation method considered the robot non-holonomic and proportional control was implemented in this experiment.
 
 Keywords: Trajectory planning, Pioneer robot, non-holonomic, proportional control.
 
@@ -120,11 +120,11 @@ Keywords: Trajectory planning, Pioneer robot, non-holonomic, proportional contro
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is a control design project, where the mathematical model of coupled tanks are programed in Simulink file and the Controller in .m files. The details of the methodology and programming of the codes are described in the [Article](https://github.com/Jesse-Alves/Analysis-and-Control-Design-for-Coupled-Tanks/blob/main/Paper/Article%20-%20Analysis_and_Control_Design_for_Coupled_Tanks.pdf).
+This is a mobile robotic design project, where the mathematical model of the Pionner robot was programed and tested in Matlab software and the trajectory planning and simulations was performed in python code and V-REP Coppeliam-SIM software.
 
 ### Prerequisites
 
-All this project was built using Matlab and Simulink tool. To test the controller project, it is important to have all those file in the same folder.
+All this project was built using Matlab, Python and V-REP software. To test the controller project, it is important to have all those file in the same folder.
 <!--This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
